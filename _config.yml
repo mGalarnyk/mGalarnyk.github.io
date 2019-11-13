@@ -84,7 +84,7 @@ author:
   avatar           : "Galarnyk.jpeg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "San Diego, CA"
-  employer         :
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=G567BHUAAAAJ&hl=en"
   email            :
@@ -104,6 +104,7 @@ author:
   linkedin         :
   orcid            :
   pinterest        :
+  researchgate     : "https://www.researchgate.net/profile/Michael_Galarnyk"
   soundcloud       :
   stackoverflow    : "https://stackoverflow.com/users/5031057/michael-james-kali-galarnyk"
   steam            :
@@ -113,7 +114,6 @@ author:
   weibo            :
   xing             :
   youtube          : "https://www.youtube.com/c/MichaelGalarnyk"
-  researchgate     : "https://www.researchgate.net/profile/Michael_Galarnyk"
   wikipedia        :
 
 
