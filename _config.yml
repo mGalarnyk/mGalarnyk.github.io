@@ -88,7 +88,6 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=G567BHUAAAAJ&hl=en"
   email            :
-  researchgate     : "https://www.researchgate.net/profile/Michael_Galarnyk"
   uri              :
   bitbucket        :
   codepen          :
@@ -100,10 +99,10 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : "https://stackoverflow.com/users/5031057/michael-james-kali-galarnyk"
@@ -114,6 +113,7 @@ author:
   weibo            :
   xing             :
   youtube          : "https://www.youtube.com/c/MichaelGalarnyk"
+  researchgate     : "https://www.researchgate.net/profile/Michael_Galarnyk"
   wikipedia        :
 
 
