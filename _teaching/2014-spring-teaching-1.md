@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Python for Data Visualization"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "LinkedIn Learning Course"
+permalink: "https://www.linkedin.com/learning/python-for-data-visualization/effectively-present-data-with-python"
+venue: "LinkedIn Learning"
+date: 2019-11-01
+location: "Online"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
