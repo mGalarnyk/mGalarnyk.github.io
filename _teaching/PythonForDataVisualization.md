@@ -2,13 +2,16 @@
 title: "Python for Data Visualization"
 collection: teaching
 type: "LinkedIn Learning Course"
-permalink: "https://www.linkedin.com/learning/python-for-data-visualization/effectively-present-data-with-python"
 venue: "LinkedIn Learning"
 date: 2019-11-01
 location: "Online"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+<a href="default.asp">
+  <img src="smiley.gif" alt="HTML tutorial" style="width:42px;height:42px;border:0">
+</a>
+
+This is a description of a teaching experience. You can use markdown like any other post. Testing. 
 
 Heading 1
 ======
