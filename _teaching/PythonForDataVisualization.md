@@ -2,7 +2,7 @@
 title: "Python for Data Visualization"
 collection: teaching
 type: "LinkedIn Learning Course"
-permalink: "https://www.linkedin.com/learning/python-for-data-visualization/effectively-present-data-with-python"
+link: "https://www.linkedin.com/learning/python-for-data-visualization/effectively-present-data-with-python"
 venue: "LinkedIn Learning"
 date: 2019-11-01
 location: "Online"
