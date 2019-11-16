@@ -8,7 +8,7 @@ location: "Online"
 ---
 
 <a href="default.asp">
-  <img src="smiley.gif" alt="HTML tutorial" style="width:42px;height:42px;border:0">
+  <img src="boxplot.png" alt="Python for Data Visualization Course" style="width:42px;height:42px;border:0">
 </a>
 
 This is a description of a teaching experience. You can use markdown like any other post. Testing. 
