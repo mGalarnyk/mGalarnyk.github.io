@@ -7,4 +7,4 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-<embed src="https://sumanbogati.github.io/sample.pdf" type="application/pdf" />
+<embed src="https://github.com/mGalarnyk/mGalarnyk.github.io/blob/master/files/Aug2019_Resume_Michael_Galarnyk.pdf" type="application/pdf" />
