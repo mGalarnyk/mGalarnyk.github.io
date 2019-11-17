@@ -9,7 +9,7 @@ author_profile: true
 We designed an interactive website [https://sandiegohearts.github.io](https://sandiegohearts.github.io) that examined the factors contributing to varying heart disease rates across San Diego to recommend ways to bring down the rates in the high risk areas. The goal is to help the potential users to make better decisions to run the campaigns and channelize the funds to the right regions.
 
 * 2nd place at the 2017 San Diego Big Data Hackathon
-* [Code](https://github.com/OrysyaStus/sandiegohearts.github.io), [Website](https://sandiegohearts.github.io/)<br />
+* [Code](https://github.com/sandiegohearts/sandiegohearts.github.io), [Website](https://sandiegohearts.github.io/)<br />
 <img src='/images/sanDiegoHearts.png' width="500" height="340">
 
 temporarily copied from another 
