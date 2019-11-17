@@ -5,6 +5,13 @@ permalink: /projects/
 author_profile: true
 ---
 
+## San Diego Hearts
+We designed an interactive website [https://sandiegohearts.github.io](https://sandiegohearts.github.io) that examined the factors contributing to varying heart disease rates across San Diego to recommend ways to bring down the rates in the high risk areas. The goal is to help the potential users to make better decisions to run the campaigns and channelize the funds to the right regions.
+
+* 2nd place at the 2017 San Diego Big Data Hackathon
+* [Code](https://github.com/OrysyaStus/sandiegohearts.github.io), [Website](https://sandiegohearts.github.io/)<br />
+<img src='/images/sanDiegoHearts.png' width="500" height="340">
+
 temporarily copied from another 
 ## OceanWorks / Apache Science Data Analytics Platform (NASA funded)
 In typical investigations, oceanographers follow a traditional workflow for using datasets: search, evaluate, download, and apply tools and algorithms to look for trends. While this workflow has been working very well historically for the oceanographic community, it cannot scale if the research involves massive amount of data. SDAP establishes an integrated data analytic center for Big Science problems. It focuses on technology integration, advancement and maturity. SDAP brings together a number of big data technologies including a NASA funded OceanXtremes (Anomaly detection and ocean science), NEXUS (Deep data analytic platform), DOMS (Distributed in-situ to satellite matchup), MUDROD (Search relevancy and discovery) and VQSS (Virtualized Quality Screening Service) under a single umbrella.
