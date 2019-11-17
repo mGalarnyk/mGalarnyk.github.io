@@ -92,7 +92,7 @@ analytics:
 author:
   name             : "Michael Galarnyk"
   avatar           : "Galarnyk.jpeg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Data Scientist"
   location         : "San Diego, CA"
   employer         : 
   pubmed           : 
@@ -191,7 +191,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  projects:
     output: true
     permalink: /:collection/:path/
   talks:
