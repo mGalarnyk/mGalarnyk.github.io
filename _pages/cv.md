@@ -7,3 +7,4 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+<embed src="https://sumanbogati.github.io/sample.pdf" type="application/pdf" />
