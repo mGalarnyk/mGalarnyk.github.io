@@ -1,20 +1,9 @@
 ---
-title: "Teaching experience 2"
+title: "Data Analytics Using Python"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "UCSD Extension Course"
+link: "https://extension.ucsd.edu/courses-and-programs/data-analytics-using-python"
+excerpt: "Data visualization is incredibly important for data scientists, as it helps them communicate their insights to nontechnical peers. But you don’t need to be a design pro. Python is a popular, easy-to-use programming language that offers a number of libraries specifically built for data visualization. In this course from the experts at Madecraft, you can learn how to build accurate, engaging, and easy-to-generate charts and graphs using Python. Explore the pandas and Matplotlib libraries, and then discover how to load and clean data sets and create simple and advanced plots, including heatmaps, histograms, and subplots. Instructor Michael Galarnyk provides all the instruction you need to create professional data visualizations through programming. "
+date: 2019-01-01
+location: "Online"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
