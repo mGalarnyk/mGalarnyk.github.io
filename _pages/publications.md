@@ -9,7 +9,7 @@ author_profile: true
 
 8\. V. Singh, B. Jurado-S&aacute;nchez, S. Sattayasamitsathit, J. Orozco, J. Li, <b>M. Galarnyk</b>, Y. Fedorak, J. Wang. [Multifunctional Silver-Exchanged Zeolite Micromotors for Catalytic Detoxification of Chemical and Biological Threats](https://onlinelibrary.wiley.com/doi/abs/10.1002/adfm.201500033). Adv. Funct. Mater. 2015. 
 
-7\. J. Orozco, G. Pan, S. Sattayasamitsathit, M. Galarnyk, J. Wang. [Micromotors to capture and destroy anthrax simulant spores](https://pubs.rsc.org/en/content/articlelanding/2015/AN/C4AN02169J#!divAbstract). Analyst. 2015. 140, 1421-1427.
+7\. J. Orozco, G. Pan, S. Sattayasamitsathit, <b>M. Galarnyk</b>, J. Wang. [Micromotors to capture and destroy anthrax simulant spores](https://pubs.rsc.org/en/content/articlelanding/2015/AN/C4AN02169J#!divAbstract). Analyst. 2015. 140, 1421-1427.
 
 6\. B. Jurado-S&aacute;nchez, S. Sattayasamitsathit, W. Gao, L. Santos, Y. Fedorak, V. Singh, J. Orozco, <b>M. Galarnyk</b>, J. Wang. [Self-Propelled Activated Carbon Janus Micromotors for Efficient Water Purification](https://onlinelibrary.wiley.com/doi/abs/10.1002/smll.201402215). Small. 2015. 11(4), 499-506. 
 
