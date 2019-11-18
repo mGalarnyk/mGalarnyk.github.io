@@ -9,7 +9,7 @@ author_profile: true
 
 8\. V. Singh, B. Jurado-S&aacute;nchez, S. Sattayasamitsathit, J. Orozco, J. Li, <b>M. Galarnyk</b>, Y. Fedorak, J. Wang. Multifunctional Silver- Exchanged Zeolite Micromotors for Catalytic Detoxification of Chemical and Biological Threats. Adv. Funct. Mater. 2015. 
 
-7\. 7. J. Orozco, G. Pan, S. Sattayasamitsathit, M. Galarnyk, J. Wang. Micromotors to capture and destroy anthrax simulant spores. Analyst. 2015. 140, 1421-1427. ?
+7\. J. Orozco, G. Pan, S. Sattayasamitsathit, M. Galarnyk, J. Wang. Micromotors to capture and destroy anthrax simulant spores. Analyst. 2015. 140, 1421-1427. ?
 6\. B. Jurado-S&aacute;nchez, S. Sattayasamitsathit, W. Gao, L. Santos, Y. Fedorak, V. Singh, J. Orozco, <b>M. Galarnyk</b>, J. Wang. Self-Propelled Activated Carbon Janus Micromotors for Efficient Water Purification. Small. 2015. 11(4), 499-506. ?
 5\. Z. Wu, T. Li, J. Li, W. Gao, T. Xu, C. Christianson, W. Gao, <b>M. Galarnyk</b>, Q. He, L. Zhang, J. Wang. Turning Erythrocytes into Functional Micromotors. ACS Nano. 2014. 8(12), 12041-12048. 
 
@@ -19,4 +19,4 @@ author_profile: true
 
 2\. S. Sattayasamitsathit, K. Kaufmann, M. Galarnyk, R. Vazquez-Duhalt, J. Wang. Dual-enzyme natural motors incorporating decontamination and propulsion capabilities. RSC. Adv. 2014. 4, 27565-27570. 
 
-1\. J. Orozco, B. Jurado-S&aacute;nchez, G. Wagner, W. Gao, R. Vazquez-Duhalt, S. Sattayasamitsathit, <b>M. Galarnyk</b>, A. Cortes, J. Wang. Bubble-propelled micromotors for enhanced transport of passive tracers. Langmuir. 2014. 30(18), 5082-5087. ?
+1\. J. Orozco, B. Jurado-S&aacute;nchez, G. Wagner, W. Gao, R. Vazquez-Duhalt, S. Sattayasamitsathit, <b>M. Galarnyk</b>, A. Cortes, J. Wang. Bubble-propelled micromotors for enhanced transport of passive tracers. Langmuir. 2014. 30(18), 5082-5087.
