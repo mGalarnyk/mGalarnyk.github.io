@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-9\. V. Singh, K. Kaufmann, J. Orozco, J. Li, <b>M. Galarnyk</b>, G. Arya, J. Wang. [Micromotor based on-off Fluorescence Detection of Sarin and Soman Simulants](https://pubs.rsc.org/en/content/articlelanding/2015/CC/C5CC04120A#!divAbstract). Chem. Commun. 2015. [PDF](https://mgalarnyk.github.io//files/Micromotor-based on?off fluorescence detection of sarin and soman simulants.pdf)
+9\. V. Singh, K. Kaufmann, J. Orozco, J. Li, <b>M. Galarnyk</b>, G. Arya, J. Wang. [Micromotor based on-off Fluorescence Detection of Sarin and Soman Simulants](https://pubs.rsc.org/en/content/articlelanding/2015/CC/C5CC04120A#!divAbstract). Chem. Commun. 2015. [PDF](https://mgalarnyk.github.io//files/Micromotor-basedonofffluorescence detectionofsarinandsomansimulants.pdf)
 
 8\. V. Singh, B. Jurado-S&aacute;nchez, S. Sattayasamitsathit, J. Orozco, J. Li, <b>M. Galarnyk</b>, Y. Fedorak, J. Wang. [Multifunctional Silver-Exchanged Zeolite Micromotors for Catalytic Detoxification of Chemical and Biological Threats](https://onlinelibrary.wiley.com/doi/abs/10.1002/adfm.201500033). Adv. Funct. Mater. 2015. [PDF](https://mgalarnyk.github.io//files/Multifunctional_Silver-Exchanged_Zeolite.pdf)
 
