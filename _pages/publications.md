@@ -7,6 +7,8 @@ author_profile: true
 
 <h5> <a href="https://scholar.google.com/citations?user=G567BHUAAAAJ&hl=en" alt = "Galarnyk Michael Citation Metrics">Citation Metrics</a></h5>
 
+10\. <b>M. Galarnyk</b>, G.Quer, K. McLaughlin, L. Ariniello, S. Steinhubl. ?Usability of a wrist-worn smartwatch in a direct-to-participant randomized pragmatic clinical trial?. Karger Digital Biomarkers. 2019, in press.  
+
 9\. V. Singh, K. Kaufmann, J. Orozco, J. Li, <b>M. Galarnyk</b>, G. Arya, J. Wang. [Micromotor based on-off Fluorescence Detection of Sarin and Soman Simulants](https://pubs.rsc.org/en/content/articlelanding/2015/CC/C5CC04120A#!divAbstract). Chem. Commun. 2015. [PDF](https://mgalarnyk.github.io//files/Micromotor-basedonofffluorescence detectionofsarinandsomansimulants.pdf)
 
 8\. V. Singh, B. Jurado-S&aacute;nchez, S. Sattayasamitsathit, J. Orozco, J. Li, <b>M. Galarnyk</b>, Y. Fedorak, J. Wang. [Multifunctional Silver-Exchanged Zeolite Micromotors for Catalytic Detoxification of Chemical and Biological Threats](https://onlinelibrary.wiley.com/doi/abs/10.1002/adfm.201500033). Adv. Funct. Mater. 2015. [PDF](https://mgalarnyk.github.io//files/Multifunctional_Silver-Exchanged_Zeolite.pdf)
