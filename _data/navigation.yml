@@ -5,12 +5,15 @@ main:
 
   - title: "Teaching"
     url: /courses/    
-    
+
   - title: "Projects"
     url: /projects/
-        
+
   - title: "Blog Posts"
     url: "https://medium.com/@GalarnykMichael"
-    
+
   - title: "CV"
     url: /cv/
+
+  - title: "Consulting or Contracting"
+    url: /consulting_contracting/
