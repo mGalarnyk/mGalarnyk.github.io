@@ -1,12 +1,9 @@
 ---
 layout: archive
-title: "Teaching"
-permalink: /courses/
+title: "Projects"
+permalink: /teaching/
 author_profile: true
 ---
-
-Checking Life
-
 
 ## Data Science Youtube Channel and Accompanying Blog
 * [YouTube	Channel](https://www.youtube.com/c/MichaelGalarnyk) has	over 1,000,000 total views and 7,000 subscribers
