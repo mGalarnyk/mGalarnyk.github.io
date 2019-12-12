@@ -197,7 +197,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-
+  consulting:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -252,6 +254,15 @@ defaults:
       type: talks
     values:
       layout: talk
+      author_profile: true
+      share: true
+
+    # _consulting/contract
+  - scope:
+      path: ""
+      type: publications
+    values:
+      layout: single
       author_profile: true
       share: true
 
