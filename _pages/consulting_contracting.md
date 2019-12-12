@@ -6,5 +6,5 @@ author_profile: true
 ---
 
 <b>Corporate Teaching</b>:  \$250+/hour <br>
-<b>Answering Random Installation Questions</b>:  See stackoverflow<br>
+<b>Answering Random Questions</b>:  See stackoverflow<br>
 
