@@ -5,9 +5,8 @@ permalink: /consulting_contracting/
 author_profile: true
 ---
 
+
+<b>Answering Random Questions</b>:  See stackoverflow<br>
 <b>Corporate Teaching</b>:  \$250+/hour <br>
 <b>Creating a Course</b>: Contact me through <a href='https://www.linkedin.com/in/michaelgalarnyk/'>LinkedIn</a> <br>
-<b>Answering Random Questions</b>:  See stackoverflow<br>
-
-
-
+<b>Getting a Data Science Job Advice</b> 
