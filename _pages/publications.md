@@ -7,7 +7,7 @@ author_profile: true
 
 <h5> <a href="https://scholar.google.com/citations?user=G567BHUAAAAJ&hl=en" alt = "Galarnyk Michael Citation Metrics">Citation Metrics</a></h5>
 
-10\. <b>M. Galarnyk</b>, G.Quer, K. McLaughlin, L. Ariniello, S. Steinhubl. [Usability of a wrist-worn smartwatch in a direct-to-participant randomized pragmatic clinical trial](https://www.karger.com/Article/FullText/504838). Karger Digital Biomarkers. 2019, in press.  
+10\. <b>M. Galarnyk</b>, G.Quer, K. McLaughlin, L. Ariniello, S. Steinhubl. [Usability of a wrist-worn smartwatch in a direct-to-participant randomized pragmatic clinical trial](https://www.karger.com/Article/FullText/504838). Karger Digital Biomarkers. 2019.
 
 9\. V. Singh, K. Kaufmann, J. Orozco, J. Li, <b>M. Galarnyk</b>, G. Arya, J. Wang. [Micromotor based on-off Fluorescence Detection of Sarin and Soman Simulants](https://pubs.rsc.org/en/content/articlelanding/2015/CC/C5CC04120A#!divAbstract). Chem. Commun. 2015. [PDF](https://mgalarnyk.github.io//files/Micromotor-basedonofffluorescence detectionofsarinandsomansimulants.pdf)
 
