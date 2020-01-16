@@ -7,7 +7,7 @@ author_profile: true
 
 <h5> <a href="https://scholar.google.com/citations?user=G567BHUAAAAJ&hl=en" alt = "Galarnyk Michael Citation Metrics">Citation Metrics</a></h5>
 
-11\. G. Quer, P. Gouda, <b>M. Galarnyk</b>, EJ.Topol, SR Steinhubl. Inter- and intraindividual variability in daily resting heart rate and its associations with age, sex, sleep, BMI, and time of year: retrospective, longitudinal cohort study of 92,457 adults. In press. 
+11\. G. Quer, P. Gouda, <b>M. Galarnyk</b>, EJ.Topol, SR. Steinhubl. Inter- and intraindividual variability in daily resting heart rate and its associations with age, sex, sleep, BMI, and time of year: retrospective, longitudinal cohort study of 92,457 adults. In press. 
 
 10\. <b>M. Galarnyk</b>, G.Quer, K. McLaughlin, L. Ariniello, SR. Steinhubl. [Usability of a wrist-worn smartwatch in a direct-to-participant randomized pragmatic clinical trial](https://www.karger.com/Article/FullText/504838). Karger Digital Biomarkers. 2019. [PDF](https://mgalarnyk.github.io//files/UsabilityPragmaticClinicalTrial.pdf)
 
