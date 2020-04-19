@@ -7,6 +7,9 @@ author_profile: true
 
 <h5> <a href="https://scholar.google.com/citations?user=G567BHUAAAAJ&hl=en" alt = "Galarnyk Michael Citation Metrics">Citation Metrics</a></h5>
 
+12\. JM. Radin, S. Peters, L. Ariniello  S. Wongvibulsin, <b>M. Galarnyk</b>, J. Wallen, SR. Steinhubl. [Pregnancy Health in POWERMOM Participants Living in Rural versus Urban Zip
+Codes](https://www.cambridge.org/core/journals/journal-of-clinical-and-translational-science/article/pregnancy-health-in-powermom-participants-living-in-rural-versus-urban-zip-codes/049D61ADB9F1F8E084B57300C23E4E15). Journal of Clinical and Translational Science. 2020. 1-19.
+
 11\. G. Quer, P. Gouda, <b>M. Galarnyk</b>, EJ.Topol, SR. Steinhubl. [Inter- and intraindividual variability in daily resting heart rate and its associations with age, sex, sleep, BMI, and time of year: Retrospective, longitudinal cohort study of 92,457 adults](https://doi.org/10.1371/journal.pone.0227709). PLoS ONE 15(2): e0227709. [PDF](https://mgalarnyk.github.io//files/rhrFitbit.pdf)
 
 10\. <b>M. Galarnyk</b>, G.Quer, K. McLaughlin, L. Ariniello, SR. Steinhubl. [Usability of a wrist-worn smartwatch in a direct-to-participant randomized pragmatic clinical trial](https://www.karger.com/Article/FullText/504838). Karger Digital Biomarkers. 2019. [PDF](https://mgalarnyk.github.io//files/UsabilityPragmaticClinicalTrial.pdf)
