@@ -26,6 +26,17 @@ Drawbacks (I am reaching on this):
 
 I am waiting for this book to be released on August 4, 2020. Book uses fastai  (Pytorch and Other Library Wrappers). 
 
+## <b>[Deep Learning with Python (François Chollet)](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438)</b><br>
+<img src='/images/deeplearningwithpythonFrancoisChollet.jpg' width="266" height="333">
+
+Benefits:
+* Written by François Chollet, creator of Keras
+* Massively popular book
+* First edition already out, second edition will be out in the fall 2020 (I have an early version of the edition and I like it)
+
+Drawbacks (I am reaching on this): 
+* In late 2018, Keras and TensorFlow became more attached to each other. The first edition was published before that. 
+
 ## <b>[Introduction to Machine Learning with Python (Andreas C. Muller & Sarah Guido)](https://www.amazon.com/Introduction-Machine-Learning-Python-Scientists/dp/1449369413)</b><br>
 <img src='/images/introductionToMachineLearningWithPython.jpg' width="190" height="249">
 
