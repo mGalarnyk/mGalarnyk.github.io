@@ -1,5 +1,8 @@
 ---
+layout: archive_recommendations
+title: "Recommended Resources"
 permalink: /recommended_resources/
+author_profile: true
 ---
 
 # Recommended Courses
