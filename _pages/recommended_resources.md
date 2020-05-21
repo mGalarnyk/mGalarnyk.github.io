@@ -37,6 +37,7 @@ Drawbacks (I am reaching on this):
 <img src='/images/pythonMachineLearning.jpg' width="202" height="257">
 
 Benefits: 
+* TensorFlow/Keras/Scikit-Learn based
 * Machine Learning to Deep Learning explanations are pretty good
 * Nice images supporting concepts
 * Published in late 2019 with the author constantly updating the book's code
@@ -53,7 +54,19 @@ Benefits:
 
 Drawbacks: 
 * Never took all of the courses myself
-* Less basic than python for everybody, but still nothing too crazy 
+* Less basic than python for everybody, but still basic
+
+## <b>[Coursera: Deep Learning Specialization](https://www.coursera.org/specializations/data-science-python)</b><br>
+<img src='/images/deepLearningSpecialization.png' width="310" height="163">
+
+Benefits: 
+* TensorFlow based
+* Great theory
+* Everyone knows the content for the course so interview quesions commonly come from it
+* Most quizzes are good tests of knowledge
+
+Drawbacks: 
+* Haven't finished this yet so not familiar enough to criticize. 
 
 ## <b>[Coursera: Python for Everybody Specialization](https://www.coursera.org/specializations/python)</b><br>
 <img src='/images/michigan.png' width="310" height="163">
