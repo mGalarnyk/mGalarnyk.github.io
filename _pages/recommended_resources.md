@@ -7,7 +7,7 @@ author_profile: true
 
 # Recommended Books
 ## <b>[Build a Career in Data Science (Emily Robinson & Jacqueline Nolis)](https://www.manning.com/books/build-a-career-in-data-science)</b><br>
-<img src='/images/buildcareerdatascience.png' width="240" height="301">
+<img src='/images/buildcareerdatascience.png' width="258" height="325">
 
 Benefits: 
 * Good career advice for different types of jobs and companies
