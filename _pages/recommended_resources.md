@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "Recommended Resources"
 permalink: /recommended_resources/
 author_profile: true
 ---
