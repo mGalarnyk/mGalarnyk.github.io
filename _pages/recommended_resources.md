@@ -24,7 +24,7 @@ Drawbacks (I am reaching on this):
 ## <b>[Deep Learning for Coders with fastai and PyTorch: AI Applications Without a PhD (Jeremy Howard & Sylvain Gugger)](https://www.amazon.com/Deep-Learning-Coders-fastai-PyTorch/dp/1492045527)</b><br>
 <img src='/images/deeplearningforcoders.jpg' width="254" height="332">
 
-I am waiting for this book to be released on August 4, 2020.
+I am waiting for this book to be released on August 4, 2020. Book uses fastai  (Pytorch and Other Library Wrappers). 
 
 ## <b>[Introduction to Machine Learning with Python (Andreas C. Muller & Sarah Guido)](https://www.amazon.com/Introduction-Machine-Learning-Python-Scientists/dp/1449369413)</b><br>
 <img src='/images/introductionToMachineLearningWithPython.jpg' width="190" height="249">
