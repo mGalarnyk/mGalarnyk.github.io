@@ -38,7 +38,7 @@ Drawbacks (I am reaching on this):
 * First edition published in 2016 so I would like a second edition, but the book is still relevant
 * Not a lot of math (in case you want to dive deep into it)
 
-## <b>[Python Machine Learning (Sebastian Raschka & Vahid Mirjalili)](https://www.coursera.org/learn/machine-learning)</b><br>
+## <b>[Python Machine Learning (Sebastian Raschka & Vahid Mirjalili)](https://www.amazon.com/Python-Machine-Learning-scikit-learn-TensorFlow/dp/1789955750/)</b><br>
 <img src='/images/pythonMachineLearning.jpg' width="202" height="257">
 
 Benefits: 
