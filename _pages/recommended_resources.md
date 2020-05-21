@@ -5,7 +5,32 @@ permalink: /recommended_resources/
 author_profile: true
 ---
 
+# Recommended Books
+<b>[Introduction to Machine Learning with Python (Andreas C. Muller & Sarah Guido)](https://www.coursera.org/learn/machine-learning)</b><br>
+<img src='/images/introductionToMachineLearningWithPython' width="381" height="499">
+
+Benefits: 
+* Very good machine learning introduction for visual learners (The author put a lot of time into making images for the book, this is not a common thing)
+* Book gives intuitive explanation of how algorithms work 
+* Authors are big in the machine learning community
+
+Drawbacks (I am reaching on this): 
+* Published in 2016, but still relevant
+* Not a lot of math (in case you want to dive deep into it)
+
+
 # Recommended Courses
+
+<b>[Python for Everybody](https://www.coursera.org/specializations/python)</b><br>
+<img src='/images/michigan.png' width="310" height="163">
+
+Benefits: 
+* Great starter course for people learning python in a data science context
+* A lot of courses derive their material from this specialization (5 courses) on Python
+
+Drawbacks: 
+* Course is basic
+
 <b>[Coursera: Machine Learning (Andrew Ng)](https://www.coursera.org/learn/machine-learning)</b><br>
 <img src='/images/stanfordMachineLearning.jpeg' width="305" height="165">
 
