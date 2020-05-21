@@ -93,7 +93,7 @@ author:
   name             : "Michael Galarnyk"
   avatar           : "Galarnyk.jpeg"
   bio              : "Data Scientist"
-  location         : "San Diego, CA"
+  location         : 
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=G567BHUAAAAJ&hl=en"
@@ -114,7 +114,7 @@ author:
   linkedin         :
   orcid            :
   pinterest        :
-  researchgate     : "https://www.researchgate.net/profile/Michael_Galarnyk"
+  researchgate     :
   soundcloud       :
   stackoverflow    : "5031057/michael-james-kali-galarnyk"
   steam            :
