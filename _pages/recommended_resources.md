@@ -82,7 +82,7 @@ Benefits:
 Drawbacks (I am reaching on this): 
 * I dont like the initial explanation of deep learning relative to other sources in this list
 
-## <b>[The Elements of Staistical Learning (Hastie & Tibshirani & Friedman)](https://www.amazon.com/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576)</b><br>
+## <b>[The Elements of Statistical Learning (Hastie & Tibshirani & Friedman)](https://www.amazon.com/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576)</b><br>
 <img src='/images/elementsStatisticalLearning.jpg' width="222" height="333">
 
 Benefits: 
