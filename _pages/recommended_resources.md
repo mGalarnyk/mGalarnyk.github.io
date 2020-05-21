@@ -49,6 +49,17 @@ Drawbacks (I am reaching on this):
 * First edition published in 2016 so I would like a second edition, but the book is still relevant
 * Not a lot of math (in case you want to dive deep into it)
 
+## <b>[Python Data Science Handbook (Jake VanderPlas)](http://shop.oreilly.com/product/0636920034919.do)</b><br>
+<img src='/images/pythondatasciencehandbook.png' width="252" height="333">
+
+Benefits: 
+* Book covers jupyter, numpy, pandas, matplotlib, and some scikit-learn
+* Read the book in its entirety online at [https://jakevdp.github.io/PythonDataScienceHandbook/](https://github.com/jakevdp/PythonDataScienceHandbook)
+* Book is constantly updated online
+
+Drawbacks (I am reaching on this): 
+* The machine learning part is too basic
+
 ## <b>[Python Machine Learning (Sebastian Raschka & Vahid Mirjalili)](https://www.amazon.com/Python-Machine-Learning-scikit-learn-TensorFlow/dp/1789955750/)</b><br>
 <img src='/images/pythonMachineLearning.jpg' width="202" height="257">
 
