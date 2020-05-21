@@ -52,9 +52,18 @@ Benefits:
 * Good for some machine learning/data science introduction in python
 
 Drawbacks: 
-* Never took all of the courses myself.
-* Less basic than python for everybody, but still nothing too crazy. 
+* Never took all of the courses myself
+* Less basic than python for everybody, but still nothing too crazy 
 
+## <b>[Python for Data Visualization](https://www.linkedin.com/learning/python-for-data-visualization/effectively-present-data-with-python) </b><br>
+<img src='/images/pythonDataVisualization.png' width="310" height="163">
+
+Benefits: 
+* I made this course on pandas, matplotlib, seaborn, etc
+* Nicely edited in October 2019
+
+Drawbacks: 
+* Course is only 2 hours
 
 ## <b>[Python for Everybody Specialization](https://www.coursera.org/specializations/python)</b><br>
 <img src='/images/michigan.png' width="310" height="163">
@@ -66,7 +75,7 @@ Benefits:
 Drawbacks: 
 * Course is basic
 
-## <b>[Coursera: Machine Learning (Andrew Ng)](https://www.coursera.org/learn/machine-learning)</b><br>
+## <b>[Machine Learning (Andrew Ng)](https://www.coursera.org/learn/machine-learning)</b><br>
 <img src='/images/stanfordMachineLearning.jpeg' width="305" height="165">
 
 Benefits: 
@@ -75,8 +84,8 @@ Benefits:
 * Most quizzes are good tests of knowledge
 
 Drawbacks: 
-* I would highly recommend NOT doing the assignments since they are in Octave/MATLAB which almost nobody uses in industry.
-* It is an older class which hasn't been updated, but this is a minor issue.
+* I would highly recommend NOT doing the assignments since they are in Octave/MATLAB which almost nobody uses in industry
+* It is an older class which hasn't been updated, but this is a minor issue
 
 
 ################
