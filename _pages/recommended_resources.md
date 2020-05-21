@@ -1,3 +1,7 @@
+---
+permalink: /recommended_resources/
+---
+
 # Recommended Courses
 <b>[Coursera: Machine Learning (Andrew Ng)](https://www.coursera.org/learn/machine-learning)</b><br>
 <img src='/images/stanfordMachineLearning.jpeg' width="305" height="165">
