@@ -20,8 +20,18 @@ Drawbacks (I am reaching on this):
 
 
 # Recommended Courses
+<b>[Applied Data Science with Python Specialization](https://www.coursera.org/specializations/data-science-python)</b><br>
+<img src='/images/michigan.png' width="310" height="163">
 
-<b>[Python for Everybody](https://www.coursera.org/specializations/python)</b><br>
+Benefits: 
+* Good for some machine learning/data science introduction in python
+
+Drawbacks: 
+* Never took all of the courses myself.
+* Less basic than python for everybody, but still nothing too crazy. 
+
+
+<b>[Python for Everybody Specialization](https://www.coursera.org/specializations/python)</b><br>
 <img src='/images/michigan.png' width="310" height="163">
 
 Benefits: 
