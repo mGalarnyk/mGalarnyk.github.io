@@ -82,6 +82,16 @@ Benefits:
 Drawbacks (I am reaching on this): 
 * I dont like the initial explanation of deep learning relative to other sources in this list
 
+## <b>[The Elements of Staistical Learning (Hastie & Tibshirani & Friedman)](https://www.amazon.com/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576)</b><br>
+<img src='/images/elementsStatisticalLearning.jpg' width="222" height="333">
+
+Benefits: 
+* Great statistical theory for a lot of basic machine learning algorithms
+* I like the section on wide data (p bigger than n).
+
+Drawbacks (I am reaching on this): 
+* Uses R for examples 
+
 # Recommended Courses
 ## <b>[Coursera: Applied Data Science with Python Specialization](https://www.coursera.org/specializations/data-science-python)</b><br>
 <img src='/images/michigan.png' width="310" height="163">
