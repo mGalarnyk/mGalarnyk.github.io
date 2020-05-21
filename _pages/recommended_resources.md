@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 # Recommended Books
-<b>[Introduction to Machine Learning with Python (Andreas C. Muller & Sarah Guido)](https://www.coursera.org/learn/machine-learning)</b><br>
+## <b>[Introduction to Machine Learning with Python (Andreas C. Muller & Sarah Guido)](https://www.coursera.org/learn/machine-learning)</b><br>
 <img src='/images/introductionToMachineLearningWithPython.jpg' width="190" height="249">
 
 Benefits: 
@@ -20,7 +20,7 @@ Drawbacks (I am reaching on this):
 
 
 # Recommended Courses
-<b>[Applied Data Science with Python Specialization](https://www.coursera.org/specializations/data-science-python)</b><br>
+## <b>[Applied Data Science with Python Specialization](https://www.coursera.org/specializations/data-science-python)</b><br>
 <img src='/images/michigan.png' width="310" height="163">
 
 Benefits: 
@@ -31,7 +31,7 @@ Drawbacks:
 * Less basic than python for everybody, but still nothing too crazy. 
 
 
-<b>[Python for Everybody Specialization](https://www.coursera.org/specializations/python)</b><br>
+## <b>[Python for Everybody Specialization](https://www.coursera.org/specializations/python)</b><br>
 <img src='/images/michigan.png' width="310" height="163">
 
 Benefits: 
@@ -41,7 +41,7 @@ Benefits:
 Drawbacks: 
 * Course is basic
 
-<b>[Coursera: Machine Learning (Andrew Ng)](https://www.coursera.org/learn/machine-learning)</b><br>
+## <b>[Coursera: Machine Learning (Andrew Ng)](https://www.coursera.org/learn/machine-learning)</b><br>
 <img src='/images/stanfordMachineLearning.jpeg' width="305" height="165">
 
 Benefits: 
