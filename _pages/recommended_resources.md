@@ -56,7 +56,7 @@ Drawbacks:
 * Less basic than python for everybody, but still nothing too crazy 
 
 ## <b>[Python for Data Visualization](https://www.linkedin.com/learning/python-for-data-visualization/effectively-present-data-with-python) </b><br>
-<img src='/images/pythonDataVisualization.png' width="310" height="163">
+<img src='/images/pythonDataVisualization.jpeg' width="310" height="163">
 
 Benefits: 
 * I made this course on pandas, matplotlib, seaborn, etc
