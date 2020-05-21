@@ -5,7 +5,7 @@ permalink: /recommended_resources/
 author_profile: true
 ---
 
-This is not a complete list as I am still building it. 
+This is not a complete list as I am still building it. I should note that I prefer books to courses so I am more knowledgeable about them. 
 
 # Recommended Books
 ## <b>[Build a Career in Data Science (Emily Robinson & Jacqueline Nolis)](https://www.manning.com/books/build-a-career-in-data-science)</b><br>
@@ -20,6 +20,11 @@ Benefits:
 
 Drawbacks (I am reaching on this): 
 * Havent finished the book yet since it just came out March 24, 2020
+
+## <b>[Deep Learning for Coders with fastai and PyTorch: AI Applications Without a PhD (Jeremy Howard & Sylvain Gugger)](https://www.amazon.com/Deep-Learning-Coders-fastai-PyTorch/dp/1492045527)</b><br>
+<img src='/images/deeplearningforcoders.jpg' width="254" height="332">
+
+I am waiting for this book to be released on August 4, 2020.
 
 ## <b>[Introduction to Machine Learning with Python (Andreas C. Muller & Sarah Guido)](https://www.amazon.com/Introduction-Machine-Learning-Python-Scientists/dp/1449369413)</b><br>
 <img src='/images/introductionToMachineLearningWithPython.jpg' width="190" height="249">
@@ -97,7 +102,8 @@ Drawbacks:
 
 Benefits: 
 * fastai based (Pytorch and Other Library Wrappers)
-* learn by doing, probably the fastest way to start doing deep learning
+* Learn by doing, probably the fastest way to start doing deep learning
+* Free 
 
 Drawbacks: 
 * Haven't finished this yet so not familiar enough to criticize
