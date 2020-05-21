@@ -6,7 +6,7 @@ author_profile: true
 
 # Recommended Courses
 <b>[Coursera: Machine Learning (Andrew Ng)](https://www.coursera.org/learn/machine-learning)</b><br>
-
+<img src='/images/stanfordMachineLearning.jpeg' width="305" height="165">
 Benefits: 
 * Great theory
 * Everyone knows the content for the course so interview quesions commonly come from it

@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Data Science Youtube Channel and Accompanying Blog
-* [YouTube	Channel](https://www.youtube.com/c/MichaelGalarnyk) has	over 1,000,000 total views and 7,000 subscribers
+* [YouTube	Channel](https://www.youtube.com/c/MichaelGalarnyk) has	over 1,000,000 total views and 8,500 subscribers
 * [Blog](https://medium.com/@GalarnykMichael) gets	over 7000+ views	daily	and	has	been	featured	on	DataCamp,	KDnuggets, Towards	Data	Science, and	more<br />
 <img src='/images/boxplot.png' width="450" height="300">
 * [Python web scraping blog post](https://towardsdatascience.com/using-scrapy-to-build-your-own-dataset-64ea2d7d4673) has appeared on Hacker News and is now used as an example dataset on Scrapinghub.com<br />
