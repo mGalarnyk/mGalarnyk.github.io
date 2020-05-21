@@ -56,7 +56,7 @@ Drawbacks:
 * Never took all of the courses myself
 * Less basic than python for everybody, but still basic
 
-## <b>[Coursera: Deep Learning Specialization](https://www.coursera.org/specializations/data-science-python)</b><br>
+## <b>[Coursera: Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)</b><br>
 <img src='/images/deepLearningSpecialization.png' width="310" height="163">
 
 Benefits: 
@@ -74,6 +74,7 @@ Drawbacks:
 Benefits: 
 * Great starter course for people learning python in a data science context
 * A lot of courses derive their material from this specialization (5 courses) on Python
+* You can audit without paying (hard to figure out for some)
 
 Drawbacks: 
 * Course is basic
@@ -85,10 +86,20 @@ Benefits:
 * Great theory
 * Everyone knows the content for the course so interview quesions commonly come from it
 * Most quizzes are good tests of knowledge
+* You can audit without paying (hard to figure out for some)
 
 Drawbacks: 
 * I would highly recommend NOT doing the assignments since they are in Octave/MATLAB which almost nobody uses in industry
 * It is an older class which hasn't been updated, but this is a minor issue
+
+## <b>[fastai: Practical Deep Learning for Coders, v3](https://course.fast.ai/videos/?lesson=1)</b><br>
+<img src='/images/fastai.png' width="325" height="155">
+
+Benefits: 
+* fastai based (pytorch wrapper)
+
+Drawbacks: 
+* Haven't finished this yet so not familiar enough to criticize. 
 
 ## <b>[LinkedIn Learning: Python for Data Visualization](https://www.linkedin.com/learning/python-for-data-visualization/effectively-present-data-with-python) </b><br>
 <img src='/images/pythonDataVisualization.jpeg' width="310" height="163">
