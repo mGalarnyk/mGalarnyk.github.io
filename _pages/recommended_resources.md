@@ -96,10 +96,11 @@ Drawbacks:
 <img src='/images/fastai.png' width="325" height="155">
 
 Benefits: 
-* fastai based (pytorch wrapper)
+* fastai based (Pytorch and Other Library Wrappers)
+* learn by doing, probably the fastest way to start doing deep learning
 
 Drawbacks: 
-* Haven't finished this yet so not familiar enough to criticize. 
+* Haven't finished this yet so not familiar enough to criticize
 
 ## <b>[LinkedIn Learning: Python for Data Visualization](https://www.linkedin.com/learning/python-for-data-visualization/effectively-present-data-with-python) </b><br>
 <img src='/images/pythonDataVisualization.jpeg' width="310" height="163">
