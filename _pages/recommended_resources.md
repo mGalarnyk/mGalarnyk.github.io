@@ -49,6 +49,16 @@ Drawbacks (I am reaching on this):
 * First edition published in 2016 so I would like a second edition, but the book is still relevant
 * Not a lot of math (in case you want to dive deep into it)
 
+## <b>[Pattern Recognition and Machine Learning (Christopher M. Bishop)](https://www.amazon.com/gp/product/0387310738)</b><br>
+<img src='/images/patternrecognitionmachinelearning.jpg' width="246" height="333">
+
+Benefits: 
+* Very good machine learning theory with relatively intuitive math
+
+Drawbacks (I am reaching on this): 
+* Book published in 2006 so probably needs some updating
+* You need to know linear algebra and calculus to understand a lot of the book
+
 ## <b>[Python Data Science Handbook (Jake VanderPlas)](http://shop.oreilly.com/product/0636920034919.do)</b><br>
 <img src='/images/pythondatasciencehandbook.png' width="252" height="333">
 
