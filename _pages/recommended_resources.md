@@ -7,7 +7,7 @@ author_profile: true
 
 # Recommended Books
 <b>[Introduction to Machine Learning with Python (Andreas C. Muller & Sarah Guido)](https://www.coursera.org/learn/machine-learning)</b><br>
-<img src='/images/introductionToMachineLearningWithPython.jpg' width="381" height="499">
+<img src='/images/introductionToMachineLearningWithPython.jpg' width="190" height="249">
 
 Benefits: 
 * Very good machine learning introduction for visual learners (The author put a lot of time into making images for the book, this is not a common thing)
