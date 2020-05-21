@@ -6,7 +6,20 @@ author_profile: true
 ---
 
 # Recommended Books
-## <b>[Introduction to Machine Learning with Python (Andreas C. Muller & Sarah Guido)](https://www.coursera.org/learn/machine-learning)</b><br>
+## <b>[Build a Career in Data Science (Emily Robinson & Jacqueline Nolis)](https://www.manning.com/books/build-a-career-in-data-science)</b><br>
+<img src='/images/buildcareerdatascience.png' width="240" height="301">
+
+Benefits: 
+* Good career advice for different types of jobs and companies
+* Underrated interview questions in the book
+* Good advice on different data science projects
+* Good knowledge of how to build a portfolio
+* Mentions my blog post, ["How to Build a Data Science Portfolio"](https://towardsdatascience.com/how-to-build-a-data-science-portfolio-5f566517c79c)
+
+Drawbacks (I am reaching on this): 
+* Havent finished the book yet since it just came out March 24, 2020
+
+## <b>[Introduction to Machine Learning with Python (Andreas C. Muller & Sarah Guido)](https://www.amazon.com/Introduction-Machine-Learning-Python-Scientists/dp/1449369413)</b><br>
 <img src='/images/introductionToMachineLearningWithPython.jpg' width="190" height="249">
 
 Benefits: 
@@ -15,9 +28,21 @@ Benefits:
 * Authors are big in the machine learning community
 
 Drawbacks (I am reaching on this): 
-* Published in 2016, but still relevant
+* First edition published in 2016 so I would like a second edition, but the book is still relevant
 * Not a lot of math (in case you want to dive deep into it)
 
+## <b>[Python Machine Learning (Sebastian Raschka & Vahid Mirjalili)](https://www.coursera.org/learn/machine-learning)</b><br>
+<img src='/images/pythonMachineLearning.jpg' width="202" height="257">
+
+Benefits: 
+* Machine Learning to Deep Learning explanations are pretty good
+* Nice images supporting concepts
+* Published in late 2019 with the author constantly updating the book's code
+
+Drawbacks (I am reaching on this): 
+* I dont like the initial explanation of deep learning relative to other sources in this list
+
+pythonMachineLearning
 
 # Recommended Courses
 ## <b>[Applied Data Science with Python Specialization](https://www.coursera.org/specializations/data-science-python)</b><br>
