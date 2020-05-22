@@ -5,7 +5,7 @@ permalink: /recommended_resources/
 author_profile: true
 ---
 
-This is not a complete list as I am still building it. I should note that I prefer books to courses so I am more knowledgeable about them. 
+This is not a complete list as I am still building it. I should note that I prefer books to courses so I am more knowledgeable about them. Notice that for the books, there are a lot more books than just pure machine learning as most of at least my day to day is not pure machine learning. 
 
 # Recommended Books
 ## <b>[Build a Career in Data Science (Emily Robinson & Jacqueline Nolis)](https://www.manning.com/books/build-a-career-in-data-science)</b><br>
@@ -112,6 +112,17 @@ Benefits:
 Drawbacks: 
 * Never took all of the courses myself
 * Less basic than python for everybody, but still basic
+
+## <b>[Coursera: Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science)</b><br>
+<img src='/images/jhu.png' width="180" height="180">
+
+Benefits: 
+* Good start to data science in R with some focus in statistics and machine learning
+* You will learn a litle git which is useful for showcasing your projects
+
+Drawbacks: 
+* Older specialization 
+* Probably a bit harder than other specializations on coursera
 
 ## <b>[Coursera: Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)</b><br>
 <img src='/images/deepLearningSpecialization.png' width="310" height="163">
