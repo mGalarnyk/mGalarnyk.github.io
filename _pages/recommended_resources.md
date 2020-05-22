@@ -37,6 +37,16 @@ Benefits:
 Drawbacks (I am reaching on this): 
 * In late 2018, Keras and TensorFlow became more attached to each other. The first edition was published before that. 
 
+## <b>[Introduction to Computation and Programming using Python (John V. Guttag)](https://mitpress.mit.edu/books/introduction-computation-and-programming-using-python-second-edition)</b><br>
+<img src='/images/IntroductionComputationProgrammingPython.jpg' width="183" height="231">
+
+Benefits: 
+* Python book which goes over object oriented programming, algorithmic complexity, data structures, and statistics
+* I like the distribution and confidence interval part of the book (even though its a small section)
+
+Drawbacks (I am reaching on this): 
+* Not super useful for data science, but algorithmic complexity and data structures appear in interviews!
+
 ## <b>[Introduction to Machine Learning with Python (Andreas C. Muller & Sarah Guido)](https://www.amazon.com/Introduction-Machine-Learning-Python-Scientists/dp/1449369413)</b><br>
 <img src='/images/introductionToMachineLearningWithPython.jpg' width="190" height="249">
 
@@ -155,7 +165,6 @@ Drawbacks:
 
 Benefits: 
 * I made this course on pandas, matplotlib, seaborn, etc
-* Nicely edited in October 2019
 
 Drawbacks: 
 * Course is about 2 hours
