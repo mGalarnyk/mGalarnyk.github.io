@@ -180,3 +180,19 @@ Benefits:
 Drawbacks: 
 * Course is about 2 hours
 
+# Recommended Websites
+
+For the recommended sites, I have some that I would have put on here if there weren't some issues with them (moral, ethical, etc).
+
+## <b>[YouTube Channel: Corey Schafer](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g)</b><br>
+<img src='/images/coreySchafer.jpg' width="288" height="288">
+
+Benefits: 
+* [Basic Python tutorials are superb](https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
+* [Object oriented python tutorials](https://www.youtube.com/watch?v=ZDa-Z5JzLYM&list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc) are amazing.
+
+Drawbacks: 
+* [SQL tutorials are great](https://www.youtube.com/watch?v=xaWlS9HtWYw&list=PL-osiE80TeTsKOdPrKeSOp4rN3mza8VHN), just wish there was more (common thing I hear from students in analytics classes I teach)
+
+
+
