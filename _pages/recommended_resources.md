@@ -207,7 +207,7 @@ Drawbacks:
 I will take these at some point to see how they are. 
 
 ## <b>[Deep Learning A-Z™: Hands-On Artificial Neural Networks](https://www.udemy.com/course/deeplearning/?utm_source=adwords&utm_medium=udemyads&utm_campaign=DeepLearning_v.PROF_la.EN_cc.US_ti.5374&utm_content=deal4584&utm_term=_._ag_82041669564_._ad_436603255369_._kw__._de_c_._dm__._pl__._ti_dsa-774930033809_._li_9031401_._pd__._&matchtype=b&gclid=CjwKCAjw8df2BRA3EiwAvfZWaAUzG4NrGH12G2bMt3YlWfvTsOy2sp1FasGm88z15R6vHa7xkYWYDBoCdMoQAvD_BwE)</b><br>
-<img src='/images/superdatascience' width="245" height="50">
+<img src='/images/superdatascience.png' width="245" height="50">
 
 ## <b>[Machine Learning A-Z™: Hands-On Python & R In Data Science](https://www.udemy.com/course/machinelearning/)</b><br>
 <img src='/images/superdatascience.png' width="245" height="50">
