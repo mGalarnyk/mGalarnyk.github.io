@@ -184,6 +184,15 @@ Drawbacks:
 
 For the recommended sites, I have some that I would have put on here if there weren't some issues with them (moral, ethical, etc).
 
+## <b>[Real Python](https://realpython.com/)</b><br>
+<img src='/images/realpython.png' width="356" height="94">
+
+Benefits: 
+* Very highly curated content. 
+
+Drawbacks: 
+* Not everything is free, but there is so much free content!
+
 ## <b>[YouTube Channel: Corey Schafer](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g)</b><br>
 <img src='/images/coreySchafer.jpg' width="288" height="288">
 
@@ -193,6 +202,18 @@ Benefits:
 
 Drawbacks: 
 * [SQL tutorials are great](https://www.youtube.com/watch?v=xaWlS9HtWYw&list=PL-osiE80TeTsKOdPrKeSOp4rN3mza8VHN), just wish there was more (common thing I hear from students in analytics classes I teach)
+
+# Haven't Looked at, but Heard Good Things
+I will take these at some point to see how they are. 
+
+## <b>[Deep Learning A-Z™: Hands-On Artificial Neural Networks](https://www.udemy.com/course/deeplearning/?utm_source=adwords&utm_medium=udemyads&utm_campaign=DeepLearning_v.PROF_la.EN_cc.US_ti.5374&utm_content=deal4584&utm_term=_._ag_82041669564_._ad_436603255369_._kw__._de_c_._dm__._pl__._ti_dsa-774930033809_._li_9031401_._pd__._&matchtype=b&gclid=CjwKCAjw8df2BRA3EiwAvfZWaAUzG4NrGH12G2bMt3YlWfvTsOy2sp1FasGm88z15R6vHa7xkYWYDBoCdMoQAvD_BwE)</b><br>
+<img src='/images/superdatascience' width="245" height="50">
+
+## <b>[Machine Learning A-Z™: Hands-On Python & R In Data Science](https://www.udemy.com/course/machinelearning/)</b><br>
+<img src='/images/superdatascience.png' width="245" height="50">
+
+## <b>[Python for Statistical Analysis](https://www.udemy.com/course/python-for-statistical-analysis/)</b><br>
+<img src='/images/superdatascience.png' width="245" height="50">
 
 
 
