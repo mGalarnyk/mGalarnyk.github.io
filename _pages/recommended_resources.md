@@ -19,7 +19,8 @@ Benefits:
 * Mentions my blog post, ["How to Build a Data Science Portfolio"](https://towardsdatascience.com/how-to-build-a-data-science-portfolio-5f566517c79c)
 
 Drawbacks (I am reaching on this): 
-* Havent finished the book yet since it just came out March 24, 2020
+* It talks about self learning a bit or learning on the job which is probably not as realististic now as it was when the book was written. 
+
 
 ## <b>[Deep Learning for Coders with fastai and PyTorch: AI Applications Without a PhD (Jeremy Howard & Sylvain Gugger)](https://www.amazon.com/Deep-Learning-Coders-fastai-PyTorch/dp/1492045527)</b><br>
 <img src='/images/deeplearningforcoders.jpg' width="254" height="332">
@@ -36,6 +37,15 @@ Benefits:
 
 Drawbacks (I am reaching on this): 
 * In late 2018, Keras and TensorFlow became more attached to each other. The first edition was published before that. 
+
+## <b>[Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow (Aurélien Géron)](https://www.amazon.com/gp/product/1492032646/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)</b><br>
+<img src='/images/AurélienGéron.jpg' width="198" height="200">
+
+Benefits:
+* Reading this now
+
+Drawbacks (I am reaching on this): 
+* No negatives yet. 
 
 ## <b>[Introduction to Computation and Programming using Python (John V. Guttag)](https://mitpress.mit.edu/books/introduction-computation-and-programming-using-python-second-edition)</b><br>
 <img src='/images/IntroductionComputationProgrammingPython.jpg' width="183" height="231">
