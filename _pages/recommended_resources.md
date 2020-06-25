@@ -39,7 +39,7 @@ Drawbacks (I am reaching on this):
 * In late 2018, Keras and TensorFlow became more attached to each other. The first edition was published before that. 
 
 ## <b>[Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow (Aurélien Géron)](https://www.amazon.com/gp/product/1492032646/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)</b><br>
-<img src='/images/AurélienGéron.jpg' width="198" height="200">
+<img src='/images/Hands-On_MachineLearning.png' width="252" height="337">
 
 Benefits:
 * Reading this now
