@@ -56,6 +56,7 @@ Benefits:
 
 Drawbacks (I am reaching on this): 
 * Not super useful for data science, but algorithmic complexity and data structures appear in interviews!
+* Uses pylab for some examples and calculates standard deviation from scratch. While this isn't a deal breaker, it can be confusing for some students. 
 
 ## <b>[Introduction to Machine Learning with Python (Andreas C. Muller & Sarah Guido)](https://www.amazon.com/Introduction-Machine-Learning-Python-Scientists/dp/1449369413)</b><br>
 <img src='/images/introductionToMachineLearningWithPython.jpg' width="190" height="249">
