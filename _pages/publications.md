@@ -7,6 +7,8 @@ author_profile: true
 
 <h5> <a href="https://scholar.google.com/citations?user=G567BHUAAAAJ&hl=en" alt = "Galarnyk Michael Citation Metrics">Citation Metrics</a></h5>
 
+13\. SJ. Jaiswal, G. Quer, <b>M. Galarnyk</b>, SR. Steinhubl, EJ. Topol, RL. Owens [Association of Sleep Duration and Variability With Body Mass Index: Sleep Measurements in a Large US Population of Wearable Sensor Users](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2770720). JAMA Intern Med. 2020. [PDF](https://mgalarnyk.github.io//files/jamainternal_jaiswal_2020_ld_200038_1599857606.pdf)
+
 12\. JM. Radin, S. Peters, L. Ariniello  S. Wongvibulsin, <b>M. Galarnyk</b>, J. Wallen, SR. Steinhubl. [Pregnancy Health in POWERMOM Participants Living in Rural versus Urban Zip
 Codes](https://www.cambridge.org/core/journals/journal-of-clinical-and-translational-science/article/pregnancy-health-in-powermom-participants-living-in-rural-versus-urban-zip-codes/049D61ADB9F1F8E084B57300C23E4E15). Journal of Clinical and Translational Science. 2020. 1-19.
 
