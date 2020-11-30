@@ -28,9 +28,6 @@ Drawbacks (I am reaching on this):
 Benefits:
 * Heard good things. Haven't read it yet. 
 
-Drawbacks (I am reaching on this): 
-* In late 2018, Keras and TensorFlow became more attached to each other. The first edition was published before that.
-
 ## <b>[Deep Learning with Python (François Chollet)](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438)</b><br>
 <img src='/images/deeplearningwithpythonFrancoisChollet.jpg' width="266" height="333">
 
