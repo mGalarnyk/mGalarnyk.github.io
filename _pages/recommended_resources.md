@@ -19,13 +19,17 @@ Benefits:
 * Mentions my blog post, ["How to Build a Data Science Portfolio"](https://towardsdatascience.com/how-to-build-a-data-science-portfolio-5f566517c79c)
 
 Drawbacks (I am reaching on this): 
-* It talks about self learning a bit or learning on the job which is probably not as realististic now as it was when the book was written. 
+* It talks about self learning a bit or learning on the job which is probably not super realististic.
 
 
 ## <b>[Deep Learning for Coders with fastai and PyTorch: AI Applications Without a PhD (Jeremy Howard & Sylvain Gugger)](https://www.amazon.com/Deep-Learning-Coders-fastai-PyTorch/dp/1492045527)</b><br>
 <img src='/images/deeplearningforcoders.jpg' width="254" height="332">
 
-I am waiting for this book to be released on August 4, 2020. Book uses fastai  (Pytorch and Other Library Wrappers). 
+Benefits:
+* Heard good things. Haven't read it yet. 
+
+Drawbacks (I am reaching on this): 
+* In late 2018, Keras and TensorFlow became more attached to each other. The first edition was published before that.
 
 ## <b>[Deep Learning with Python (François Chollet)](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438)</b><br>
 <img src='/images/deeplearningwithpythonFrancoisChollet.jpg' width="266" height="333">
@@ -33,7 +37,7 @@ I am waiting for this book to be released on August 4, 2020. Book uses fastai  (
 Benefits:
 * Written by François Chollet, creator of Keras
 * Massively popular book
-* First edition already out, second edition will be out in the fall 2020 (I have an early version of the edition and I like it)
+* First edition already out, second edition will be out in the Summer 2021 (I have seen some of the early chapters and they are really good)
 
 Drawbacks (I am reaching on this): 
 * In late 2018, Keras and TensorFlow became more attached to each other. The first edition was published before that. 
@@ -171,6 +175,17 @@ Drawbacks:
 * I would highly recommend NOT doing the assignments since they are in Octave/MATLAB which almost nobody uses in industry
 * It is an older class which hasn't been updated, but this is a minor issue
 
+## <b>[Coursera: SQL for Data Science (Sadie St. Lawrence)](https://www.coursera.org/learn/sql-for-data-science)</b><br>
+<img src='/images/SQLDataScience.png' width="353" height="108">
+
+Benefits: 
+* Wonderful theory and application of SQL
+* Very popular class
+* While the first course only covers SQL, you can take other courses in the [Learn SQL Basics for Data Science Specialization](https://www.coursera.org/specializations/learn-sql-basics-data-science) which cover AB testing and Apache Spark
+
+Drawbacks: 
+* Haven't had time to finish the course
+
 ## <b>[fastai: Practical Deep Learning for Coders, v3](https://course.fast.ai/videos/?lesson=1)</b><br>
 <img src='/images/fastai.png' width="325" height="155">
 
@@ -182,11 +197,39 @@ Benefits:
 Drawbacks: 
 * Haven't finished this yet so not familiar enough to criticize
 
+## <b>[LinkedIn Learning: 15 Tips for Landing a Data Science Job](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job/introduction?resume=false) </b><br>
+<img src='/images/15Tips.png' width="311" height="155">
+
+Benefits: 
+* Among other things, course covers types of data science jobs, how to look for jobs, how to build a portfolio, how to network, and how to do well in interviews
+
+Drawbacks:
+* Course is very similar to [Get a Remote Data Science Job](https://www.linkedin.com/learning/get-a-remote-data-science-job/becoming-a-remote-data-scientist?resume=false)
+
+## <b>[LinkedIn Learning: Get a Remote Data Science Job](https://www.linkedin.com/learning/get-a-remote-data-science-job/becoming-a-remote-data-scientist) </b><br>
+<img src='/images/GetRemoteDataScience.png' width="296" height="147">
+
+Benefits: 
+* Among other things, course covers types of data science jobs, how to look for jobs, how to build a portfolio, how to network, and how to do well in interviews
+
+Drawbacks:
+* Course is very similar to [15 Tips for Landing a Data Science Job](https://www.linkedin.com/learning/15-tips-for-landing-a-data-science-job/introduction?resume=false)
+
+## <b>[LinkedIn Learning: Machine Learning with Scikit-Learn (Python)](https://www.linkedin.com/learning/machine-learning-with-scikit-learn/effective-machine-learning-with-scikit-learn?resume=false) </b><br>
+<img src='/images/LogisticRegressionPredictions.png' width="301" height="210">
+
+Benefits: 
+* Course covers a variety of algorithms like linear regression, logistic regression, decision trees, bagged trees, random forests, K-Means, and various applications of PCA
+* Lots of visuals for each algorithm
+
+Drawbacks: 
+* Course is only 43 minutes so students typically say they spend a lot of time with the notebooks that come with the course.
+
 ## <b>[LinkedIn Learning: Python for Data Visualization](https://www.linkedin.com/learning/python-for-data-visualization/effectively-present-data-with-python) </b><br>
 <img src='/images/pythonDataVisualization.jpeg' width="310" height="163">
 
 Benefits: 
-* I made this course on pandas, matplotlib, seaborn, etc
+* I made this course on pandas, matplotlib, seaborn, etc and it is about as comprehensive as possible.
 
 Drawbacks: 
 * Course is about 2 hours
